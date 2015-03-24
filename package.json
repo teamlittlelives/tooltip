@@ -1,6 +1,6 @@
 {
   "name": "tether-tooltip",
-  "version": "0.2.6",
+  "version": "0.2.8",
   "description": "CSS tooltips built on Tether",
   "authors": [
     "Adam Schwartz <adam.flynn.schwartz@gmail.com>",
