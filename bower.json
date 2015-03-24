@@ -6,6 +6,10 @@
     "Zack Bloom <zackbloom@gmail.com>",
     "Adam Schwartz <adam.flynn.schwartz@gmail.com>"
   ],
+  "main": [
+    "css/tooltip-theme-default.css",
+    "js/tooltip.js"
+  ]
   "description": "Tooltips built on Tether",
   "keywords": [
     "javascript"
