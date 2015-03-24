@@ -7,7 +7,7 @@
     "Adam Schwartz <adam.flynn.schwartz@gmail.com>"
   ],
   "main": [
-    "css/tooltip-theme-default.css",
+    "css/tooltip-theme-arrows.css",
     "js/tooltip.js"
   ],
   "description": "Tooltips built on Tether",
