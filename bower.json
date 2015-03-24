@@ -9,7 +9,7 @@
   "main": [
     "css/tooltip-theme-default.css",
     "js/tooltip.js"
-  ]
+  ],
   "description": "Tooltips built on Tether",
   "keywords": [
     "javascript"
